@@ -4,6 +4,7 @@ This program converts a bmp image into a text file.
 TO USE THIS YOU HAVE TO HAVE A COPY OF "bitmap_image.hpp" WHICH IS OPEN-SOURCE AND FREE TO DOWNLOAD
 
 HOW TO USE:
+
 1. Enter input file name
 
 2. Enter output file name
